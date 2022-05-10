@@ -4,3 +4,5 @@ models/*.pkl
 *.ipynb
 venvs/*
 !venvs/.gitignore
+__pycache__/*
+src/__pycache__/*
